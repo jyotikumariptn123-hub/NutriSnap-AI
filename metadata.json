@@ -1,0 +1,5 @@
+{
+  "name": "NutriSnap",
+  "description": "AI-powered calorie and nutrition tracker. Snap a photo or describe your meal to get instant nutritional insights.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
