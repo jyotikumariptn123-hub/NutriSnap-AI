@@ -99,6 +99,23 @@ Supports common foods such as:
 - and many more
 
 ---
+
+### 🌍 International Food Support
+NutriSnap can also analyze nutrition values of popular global foods such as:
+
+- Sushi
+- Tacos
+- Waffles
+- Pasta
+- Pizza
+- Burgers
+- Sandwiches
+- Noodles
+- Salads
+- Pancakes
+- and many more cuisines worldwide
+
+---
 ## 🧠 AI Capabilities
 
 NutriSnap uses intelligent technologies such as:
