@@ -251,6 +251,30 @@ NutriSnap is a practical AI-driven nutrition assistant that modernizes calorie t
 ---
 
 ---
+
+## 📸 Application Screenshots
+
+Screenshots of the user interface, food detection results, and nutrition dashboard will be uploaded soon.
+
+## NutriSnap - Permission Access Request (Camera & Microphone)
+<img width="1899" height="854" alt="Screenshot 2026-04-22 140243" src="https://github.com/user-attachments/assets/1b91015d-40d4-4efc-8464-04163d163a43" />
+
+## NutriSnap Onboarding - Step 1: Welcome & Name
+<img width="1894" height="853" alt="Screenshot 2026-04-23 090609" src="https://github.com/user-attachments/assets/1cfb3ade-f97c-4541-8c7d-c21c88f4b419" />
+
+## NutriSnap - Step 2: Physique Description
+<img width="1877" height="861" alt="Screenshot 2026-04-23 090628" src="https://github.com/user-attachments/assets/9d07d617-4a6c-40f8-b195-d26654036798" />
+
+## NutriSnap - Step 3: Profession
+<img width="1892" height="834" alt="Screenshot 2026-04-23 090646" src="https://github.com/user-attachments/assets/26fd78ea-ac55-4701-87a9-46f5ed3f1eab" />
+
+
+## NutriSnap - Step 4: Physical Activity Level
+<img width="1863" height="839" alt="Screenshot 2026-04-23 090707" src="https://github.com/user-attachments/assets/91c8bf66-9374-4ca6-8cf2-e7b0293d099c" />
+
+## NutriSnap - Step 5: Main Goals (Final Step)
+<img width="1862" height="837" alt="Screenshot 2026-04-23 090735" src="https://github.com/user-attachments/assets/c4778215-1e68-4651-b1dd-b16829a9204f" />
+
 ## Related Projects
 
 This research is connected with other educational and technological projects developed by the author.
