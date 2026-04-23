@@ -189,3 +189,13 @@ A research project analyzing the **high cost of international competitive exams*
 🔗 Research Repository:  
 (https://github.com/jyotikumariptn123-hub/High-cost-standardized-tests-research)
 
+# Smart Turban Safety Helmet
+
+The Smart Turban Safety Helmet is an innovative protective solution designed to combine cultural identity with modern safety technology. Inspired by the traditional Sikh turban, this concept reimagines head protection for individuals who prefer wearing turbans while ensuring enhanced safety standards.
+
+
+🔗 Research Repository:  
+()
+
+
+
