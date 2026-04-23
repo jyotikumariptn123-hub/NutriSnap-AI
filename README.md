@@ -275,6 +275,36 @@ Screenshots of the user interface, food detection results, and nutrition dashboa
 ## NutriSnap - Step 5: Main Goals (Final Step)
 <img width="1862" height="837" alt="Screenshot 2026-04-23 090735" src="https://github.com/user-attachments/assets/c4778215-1e68-4651-b1dd-b16829a9204f" />
 
+## NutriSnap Dashboard - Home Screen (Welcome Back)
+<img width="988" height="827" alt="Screenshot 2026-04-23 090805" src="https://github.com/user-attachments/assets/189836a2-8823-49a0-9d62-4eb146197cc5" />
+
+## NutriSnap - Journal with Daily Goals & Food Snap Feature
+<img width="869" height="815" alt="Screenshot 2026-04-23 090824" src="https://github.com/user-attachments/assets/62377886-d4a9-462a-bcb3-12c8abee6ddc" />
+
+## NutriSnap - Snap Food with Camera/Gallery Options
+<img width="785" height="795" alt="Screenshot 2026-04-23 090841" src="https://github.com/user-attachments/assets/cdb695bb-2f0e-42a2-a035-001f1fff2d64" />
+
+## NutriSnap - User Guide
+<img width="735" height="842" alt="Screenshot 2026-04-23 090927" src="https://github.com/user-attachments/assets/527ae7b7-799a-4bdf-9cd7-0dd35726f2bc" />
+
+## NutriSnap - Today's Meals (3 Roti and Dal Logged)
+<img width="769" height="721" alt="Screenshot 2026-04-23 091005" src="https://github.com/user-attachments/assets/548cf418-c464-4bd0-a385-c2e9e249c398" />
+
+## NutriSnap - Full History (With Logged Meal)
+<img width="683" height="704" alt="Screenshot 2026-04-23 091020" src="https://github.com/user-attachments/assets/c4f17c73-04ec-4874-8659-d1a78707c6e0" />
+
+## NutriSnap - User Insights (Macro Distribution)
+<img width="697" height="801" alt="Screenshot 2026-04-23 091036" src="https://github.com/user-attachments/assets/b2d7e741-0942-41ab-b70d-1fc0b0300691" />
+
+## NutriSnap - Voice Logging Feature
+<img width="604" height="586" alt="Screenshot 2026-04-23 091053" src="https://github.com/user-attachments/assets/20493a6f-ad18-44ab-bd93-2a1fdf54f049" />
+
+## NutriSnap - Text Input Meal Description
+<img width="687" height="368" alt="Screenshot 2026-04-23 091108" src="https://github.com/user-attachments/assets/223ebe36-cb1c-4333-8756-0837e3e32594" />
+
+## NutriSnap - Dashboard After Meal Logged (Updated Stats)
+<img width="623" height="592" alt="Screenshot 2026-04-23 091122" src="https://github.com/user-attachments/assets/5e2a86c9-1cdb-4d9b-91c6-b8baa032611c" />
+
 ## Related Projects
 
 This research is connected with other educational and technological projects developed by the author.
