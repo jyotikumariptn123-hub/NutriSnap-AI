@@ -165,3 +165,27 @@ NutriSnap uses AI-powered image recognition, voice understanding, and smart nutr
 NutriSnap makes nutrition tracking easier, faster, and smarter by combining AI with user-friendly design.
 
 ---
+## Related Projects
+
+This research is connected with other educational and technological projects developed by the author.
+
+### 1. Study Genie (StudyJourney)
+An AI-powered educational application that helps students generate study questions based on their **class, subject, and topic**. The tool aims to improve learning efficiency and help students practice important concepts.
+
+🔗 GitHub Repository:  
+https://github.com/jyotikumariptn123-hub/Study-Genie
+
+
+### 2. Dummy Phone for Students
+A conceptual device designed to reduce **digital distractions caused by smartphones**. The Dummy Phone provides essential academic tools while limiting access to social media and entertainment applications, helping students maintain focus on their studies.
+
+🔗 Research Repository:  
+(https://github.com/jyotikumariptn123-hub/student-digital-distraction-research/blob/main/README.md)
+
+
+### 3. High Price of Competitive Exams Research
+A research project analyzing the **high cost of international competitive exams** such as SAT, GRE, GMAT, TOEFL, and IELTS, and how these costs create financial barriers for middle-class students who want to study abroad.
+
+🔗 Research Repository:  
+(https://github.com/jyotikumariptn123-hub/High-cost-standardized-tests-research)
+
