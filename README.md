@@ -23,6 +23,86 @@ View your app in AI Studio: https://ai.studio/apps/3cfc52ca-d2d2-42a0-8ca5-6a877
 
 NutriSnap is an intelligent nutrition tracking application designed to help users maintain a healthy lifestyle through smart food analysis and personalized guidance. The app makes nutrition simple, interactive, and accessible by allowing users to analyze food using three easy methods: Snap, Talk, and Type.
 
+# NutriSnap: AI-Based Smart Nutrition Analysis Using Image, Text, and Voice Input
+
+## Abstract
+
+Maintaining a healthy diet requires accurate monitoring of daily calorie and nutrient intake. However, traditional calorie-tracking applications often require manual food searching and repetitive data entry, which can be time-consuming and inconvenient. This research presents **NutriSnap**, an AI-powered smart nutrition analysis application that simplifies food tracking through three intelligent input methods: image recognition, text-based meal logging, and voice commands. The system analyzes food items and provides estimated nutritional values such as calories, protein, carbohydrates, and fats. NutriSnap supports both regional foods and international cuisines, making it practical for a diverse user base. The proposed solution aims to improve accessibility, efficiency, and user engagement in digital health monitoring.
+
+---
+
+## 1. Introduction
+
+Healthy eating habits are essential for preventing lifestyle diseases and maintaining overall wellness. Many individuals struggle to track their food intake consistently due to the complexity of existing nutrition apps. Most available systems depend heavily on manual search and food entry, which reduces long-term user engagement.
+
+To solve this challenge, NutriSnap introduces a faster and smarter method of nutrition tracking by allowing users to log meals through images, natural language text, or voice input. By combining Artificial Intelligence technologies with an intuitive mobile interface, NutriSnap makes calorie counting easier and more accessible.
+
+---
+
+## 2. Problem Statement
+
+Current nutrition-tracking applications face several limitations:
+
+- Time-consuming manual food search
+- Poor support for regional foods
+- Limited accessibility for non-typing users
+- Low user retention due to repetitive input methods
+- Inaccurate self-estimation of portion sizes
+
+These issues create barriers for users who wish to monitor their diet regularly.
+
+## 3. Proposed Solution
+
+NutriSnap is a multimodal nutrition tracking system designed to solve these limitations. Users can log meals in three ways:
+
+### 3.1  📷 Image Input
+Users capture or upload a food image. The AI model identifies food items and estimates nutrition values.
+
+### 3.2 ✍️Text Input
+Users type meals naturally, such as:
+
+2 rotis, 1 bowl dal, 1 plate rice
+
+The system extracts food names and quantity, then calculates total nutrition.
+
+### 3.3 🎤Voice Input
+Users speak what they consumed. Speech recognition converts voice to text, and the nutrition engine processes the result.
+
+---
+
+## 6. Technologies Used
+
+- Artificial Intelligence
+- Computer Vision
+- Natural Language Processing
+- Speech Recognition
+- Nutrition Database APIs
+- Mobile App Development Frameworks
+
+---
+
+## 7. Methodology
+
+1. User selects input mode (image/text/voice)
+2. Data is captured and preprocessed
+3. AI system identifies food items
+4. Portion estimation is performed
+5. Nutrition database maps food to calories/macros
+6. Final report is displayed to the user
+
+---
+## Comparative analysis
+Add a table comparing NutriSnap vs normal calorie apps:
+
+| Feature             | Traditional Apps | NutriSnap |
+| ------------------- | ---------------- | --------- |
+| Manual Search       | Yes              | No        |
+| Photo Input         | Limited          | Yes       |
+| Voice Input         | Rare             | Yes       |
+| Indian Food Support | Limited          | Yes       |
+| Instant AI Analysis | Limited          | Yes       |
+
+
 ## Features
 ## Personalized Daily Goals
 
@@ -164,6 +244,12 @@ NutriSnap uses AI-powered image recognition, voice understanding, and smart nutr
 
 NutriSnap makes nutrition tracking easier, faster, and smarter by combining AI with user-friendly design.
 
+## 11. Conclusion
+
+NutriSnap is a practical AI-driven nutrition assistant that modernizes calorie tracking through image, text, and voice interaction. By reducing the effort required for food logging and supporting a wide variety of cuisines, the system has the potential to improve user health awareness and long-term dietary management. NutriSnap demonstrates how AI can make everyday wellness tools smarter, simpler, and more inclusive.
+
+---
+
 ---
 ## Related Projects
 
@@ -195,7 +281,12 @@ The Smart Turban Safety Helmet is an innovative protective solution designed to 
 
 
 🔗 Research Repository:  
-()
+(https://github.com/jyotikumariptn123-hub/Smart-turban-safety-helmet)
+
+## 12. Keywords
+
+AI Nutrition App, Calorie Tracker, Food Recognition, Computer Vision, Health Technology, Smart Diet App, Voice Nutrition Logging
+
 
 
 
