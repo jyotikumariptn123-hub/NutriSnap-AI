@@ -340,6 +340,14 @@ The Smart Turban Safety Helmet is an innovative protective solution designed to 
 
 AI Nutrition App, Calorie Tracker, Food Recognition, Computer Vision, Health Technology, Smart Diet App, Voice Nutrition Logging
 
+## 🎥 Demo Video
 
+Watch the NutriSnap demo here:  
+[Click to Watch Demo](https://youtu.be/SeSvgJHIFrU)
+
+## 👩‍💻 Author
+
+**Jyoti**  
+Developer of NutriSnap – AI-powered smart nutrition analysis application.
 
 
