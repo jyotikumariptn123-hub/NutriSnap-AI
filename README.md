@@ -49,6 +49,13 @@ Health score of the food
 Personalized suggestions
 Healthier alternatives
 Tips for improving eating habits
+### 🎯 Daily Nutrition Goals
+Users can track and manage daily goals for:
+
+- Calories
+- Protein
+- Carbohydrates
+- Fats
 ## Dashboard Sections
 History – View previously analyzed meals and reports
 Insights – Interactive charts showing nutrient intake balance
