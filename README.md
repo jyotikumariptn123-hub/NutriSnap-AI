@@ -256,50 +256,50 @@ NutriSnap is a practical AI-driven nutrition assistant that modernizes calorie t
 
 Screenshots of the user interface, food detection results, and nutrition dashboard will be uploaded soon.
 
-## NutriSnap - Permission Access Request (Camera & Microphone)
+## 1.NutriSnap - Permission Access Request (Camera & Microphone)
 <img width="1899" height="854" alt="Screenshot 2026-04-22 140243" src="https://github.com/user-attachments/assets/1b91015d-40d4-4efc-8464-04163d163a43" />
 
-## NutriSnap Onboarding - Step 1: Welcome & Name
+## 2.NutriSnap Onboarding - Step 1: Welcome & Name
 <img width="1894" height="853" alt="Screenshot 2026-04-23 090609" src="https://github.com/user-attachments/assets/1cfb3ade-f97c-4541-8c7d-c21c88f4b419" />
 
-## NutriSnap - Step 2: Physique Description
+## 3.NutriSnap - Step 2: Physique Description
 <img width="1877" height="861" alt="Screenshot 2026-04-23 090628" src="https://github.com/user-attachments/assets/9d07d617-4a6c-40f8-b195-d26654036798" />
 
-## NutriSnap - Step 3: Profession
+## 4.NutriSnap - Step 3: Profession
 <img width="1892" height="834" alt="Screenshot 2026-04-23 090646" src="https://github.com/user-attachments/assets/26fd78ea-ac55-4701-87a9-46f5ed3f1eab" />
 
 
-## NutriSnap - Step 4: Physical Activity Level
+## 5.NutriSnap - Step 4: Physical Activity Level
 <img width="1863" height="839" alt="Screenshot 2026-04-23 090707" src="https://github.com/user-attachments/assets/91c8bf66-9374-4ca6-8cf2-e7b0293d099c" />
 
-## NutriSnap - Step 5: Main Goals (Final Step)
+## 6.NutriSnap - Step 5: Main Goals (Final Step)
 <img width="1862" height="837" alt="Screenshot 2026-04-23 090735" src="https://github.com/user-attachments/assets/c4778215-1e68-4651-b1dd-b16829a9204f" />
 
-## NutriSnap Dashboard - Home Screen (Welcome Back)
+## 7.NutriSnap Dashboard - Home Screen (Welcome Back)
 <img width="1892" height="836" alt="Screenshot 2026-04-23 092635" src="https://github.com/user-attachments/assets/c64fa936-0c1e-400f-84e2-31cb146c28c5" />
 
-## NutriSnap - Journal with Daily Goals & Food Snap Feature
+## 8.NutriSnap - Journal with Daily Goals & Food Snap Feature
 <img width="1883" height="837" alt="Screenshot 2026-04-23 092753" src="https://github.com/user-attachments/assets/1fc02dfb-6761-4938-9ff5-c79e7e922d68" />
 
-## NutriSnap - Snap Food with Camera/Gallery Options
+## 9.NutriSnap - Snap Food with Camera/Gallery Options
 <img width="1865" height="839" alt="Screenshot 2026-04-23 092844" src="https://github.com/user-attachments/assets/b602f0f8-034b-4a2f-a661-72dd0b9b7a51" />
 
-## NutriSnap - User Guide
+## 10.NutriSnap - User Guide
 <img width="1890" height="839" alt="Screenshot 2026-04-23 092932" src="https://github.com/user-attachments/assets/8d48958b-d8c8-42bf-9cd7-835322c36393" />
 
-## NutriSnap - Today's Meals (3 Roti and Dal Logged)
+## 11.NutriSnap - Today's Meals (3 Roti and Dal Logged)
 <img width="1877" height="841" alt="Screenshot 2026-04-23 093015" src="https://github.com/user-attachments/assets/7dd57114-b38b-4ba7-b35e-665a92a1eec9" />
 
-## NutriSnap - Full History (With Logged Meal)
+## 12.NutriSnap - Full History (With Logged Meal)
 <img width="1907" height="822" alt="Screenshot 2026-04-23 093055" src="https://github.com/user-attachments/assets/ca3a6189-1353-431d-a43d-299f31169e0b" />
 
-## NutriSnap - User Insights (Macro Distribution)
+## 13.NutriSnap - User Insights (Macro Distribution)
 <img width="1886" height="835" alt="Screenshot 2026-04-23 093136" src="https://github.com/user-attachments/assets/e1e24196-d409-47c7-8032-cc0f1c82ca9c" />
 
-## NutriSnap - Voice Logging Feature
+## 14.NutriSnap - Voice Logging Feature
 <img width="1870" height="832" alt="Screenshot 2026-04-23 093236" src="https://github.com/user-attachments/assets/a7ee6732-e4dc-4574-a483-854c912ead6f" />
 
-## NutriSnap - Text Input Meal Description
+## 15.NutriSnap - Text Input Meal Description
 <img width="1884" height="840" alt="Screenshot 2026-04-23 093318" src="https://github.com/user-attachments/assets/ba6a2d8b-fe9f-431e-911d-d8a6f168f922" />
 
 
