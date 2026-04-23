@@ -39,6 +39,31 @@ Users can analyze meals in three convenient ways:
 Snap – Upload a photo from the gallery or capture a live image
 Talk – Describe the meal using voice input
 Type – Manually enter food details
+
+### 📷 Smart Food Image Recognition
+- Capture live food photos using the camera.
+- Upload food images directly from gallery.
+- AI analyzes food items from the image.
+- Provides estimated:
+  - Calories
+  - Protein
+  - Carbohydrates
+  - Fats
+  - Fiber
+  - Other nutrients
+
+### ✍️ Text-Based Food Logging
+Users can type meals naturally, such as:
+
+2 rotis, 1 bowl dal, 1 plate rice
+
+The app processes the text and calculates total nutritional intake instantly.
+
+### 🎤 Voice Input Support
+- Users can describe meals by speaking.
+- Converts speech into text automatically.
+- Detects food items and quantity.
+- Generates calorie and nutrition report.
 ## AI Nutrition Analysis
 
 After receiving the input, NutriSnap provides:
@@ -56,6 +81,55 @@ Users can track and manage daily goals for:
 - Protein
 - Carbohydrates
 - Fats
+### 📊 Instant Nutrition Breakdown
+Each meal entry provides a clear breakdown of nutrients, helping users make healthier food choices.
+
+### 🇮🇳 Indian Food Friendly
+Supports common foods such as:
+
+- Roti
+- Rice
+- Dal
+- Sabzi
+- Paneer
+- Dosa
+- Idli
+- Poha
+- Paratha
+- and many more
+
+---
+## 🧠 AI Capabilities
+
+NutriSnap uses intelligent technologies such as:
+
+- Computer Vision for food image detection
+- Natural Language Processing for text meal understanding
+- Speech Recognition for voice input
+- Nutrition data mapping for calorie estimation
+
+---
+## 👥 Target Users
+
+- Fitness enthusiasts
+- Students
+- Busy professionals
+- Weight management users
+- Gym beginners
+- Health-conscious individuals
+
+---
+## 🔮 Future Scope
+
+- Personalized diet recommendations
+- Water intake tracker
+- Weekly progress reports
+- Barcode scanner
+- AI health assistant
+- Multi-language support
+- Meal reminders
+
+---
 ## Dashboard Sections
 History – View previously analyzed meals and reports
 Insights – Interactive charts showing nutrient intake balance
@@ -68,3 +142,9 @@ NutriSnap aims to make healthy eating easier by combining artificial intelligenc
 ## Technology Vision
 
 NutriSnap uses AI-powered image recognition, voice understanding, and smart nutrition data systems to create a seamless user experience for modern health tracking.
+
+## 🌟 Why NutriSnap?
+
+NutriSnap makes nutrition tracking easier, faster, and smarter by combining AI with user-friendly design.
+
+---
